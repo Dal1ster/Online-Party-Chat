@@ -1,2 +1,2 @@
-# online-party-chat
+# Online Party Chat
 A mod I created for the game A Hat in Time, it was removed from the Steam Workshop, I think it was removed because people abused it, but I'm not sure because the creators of the game won't tell me.
